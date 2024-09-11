@@ -5,4 +5,10 @@
 
 ![Vadim01j12feradim's Streak](./readmeImages/SoldierSurvival_2022B.pdf-image-003.png)
 
-1. 
+Gender: Stealth
+
+Instructions
+
+How to move:
+* A,<: You can use this two keys to move left.
+* 
