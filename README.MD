@@ -23,3 +23,6 @@ How to move:
 
 * To countinue you need to find the red flag.
 ![Vadim01j12feradim's Streack](./readmeImages/SoldierSurvival_2022B.pdf-image-005.png)
+
+* Try to skipe the enemies so its depends of the kind of the monster its has a speed, damage, live and atraction detection.
+![vadim](./readmeImages/SoldierSurvival_2022B.pdf-image-006.png)
