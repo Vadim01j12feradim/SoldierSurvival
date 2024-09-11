@@ -53,9 +53,43 @@ How to move:
 > _AI_: Control the logic of the enemies, animations, speed and more.
 ![image5](./readmeImages/SoldierSurvival_2022B.pdf-image-011.png)
 
->
+> _ControllerTriggerAnimation_: Control the events in the enemies animations.
+![image6](./readmeImages/SoldierSurvival_2022B.pdf-image-012.png)
+
+> _CaambasCamera_: This show the live var always the front of the camera.
+![image7](./readmeImages/SoldierSurvival_2022B.pdf-image-013.png)
+
+> _NPCInteractable_: This allow the player to interact with the NPC and its messages.
+![image8](./readmeImages/SoldierSurvival_2022B.pdf-image-014.png)
+
+> _LogicOfLive_: This get the logic of the live from the rest of the live to the neccessary operations.
+![image9](./readmeImages/SoldierSurvival_2022B.pdf-image-015.png)
+
+> _CameraController_: Controls the space betwen the camera and the player movement.
+![image10](./readmeImages/SoldierSurvival_2022B.pdf-image-016.png)
+
+> _DialogueManager_: Control the dailoge steps and putting this in the corresponding panels.
+![image11](./readmeImages/SoldierSurvival_2022B.pdf-image-017.png)
+
+> _SceneManager_: This controlls the functions to change betwen the different esccenes.
+![image12](./readmeImages/SoldierSurvival_2022B.pdf-image-018.png)
+
+> _ControllToEventsAnimator_: Desactive the attacking state when the animation ends.
+![image13](./readmeImages/SoldierSurvival_2022B.pdf-image-019.png)
+
+> _PlayerAnimation_: This script control the functions to activate the diferent anomations of the Player.
+![image14](./readmeImages/SoldierSurvival_2022B.pdf-image-020.png)
+
+> _PlayerController_: Controls the logic of the player, animations, speed and more.
+![image15](./readmeImages/SoldierSurvival_2022B.pdf-image-021.png)
+
+> _Music_: Allows that the Music object dont be destructed when the scene change.
+![image16](./readmeImages/SoldierSurvival_2022B.pdf-image-022.png)
+
 To open the live preview you can use the next commandsss
 
-```
-Ctrl + Shift + V
-```
+<hr>
+<div style="text-align:center; color:GREEN;font-size:50px">
+  THANKS FOR YOUR ATTENTION
+</div>
+
